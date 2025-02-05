@@ -7,7 +7,7 @@ This is a secure chat application that integrates Quantum Cryptography technique
 
 Key Features  
 
-Quantum Key Distribution (QKD): Uses the BB84 protocol to securely exchange encryption keys, ensuring protection against eavesdropping.
+Quantum Key Distribution (QKD): Uses the BB84 protocol to securely exchange encryption keys, ensuring protection against eavesdropping. 
 AES Encryption: Implements AES-256 for encrypting and decrypting messages using the quantum-generated key.
 Authentication & Integrity: Ensures secure authentication between users to prevent impersonation.
 End-to-End Security: The combination of QKD and AES guarantees a highly secure communication channel.
